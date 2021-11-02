@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.maxxil.intellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.maxxil.intellijplugin.MyBundle
 
 class MyApplicationService {
 
